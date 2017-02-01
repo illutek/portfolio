@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "description": "<!-- @file Instructions on how to sub-theme the Drupal Bootstrap base theme using the CDN Starterkit. --> <!-- @defgroup sub_theming_cdn --> <!-- @ingroup sub_theming --> # CDN Starterkit",
+  "main": "/templates/index.html",
+  "authors": [
+    "Stefan"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/illutek/drupal8_ThemingWithTwig",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "https://github.com/twbs/bootstrap.git#^3.3.7",
+    "font-awesome": "https://github.com/FortAwesome/Font-Awesome.git#^4.7.0"
+  }
+}
