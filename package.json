@@ -9,7 +9,10 @@
   "author": "Stefan",
   "license": "ISC",
   "devDependencies": {
+    "browser-sync": "^2.18.7",
     "gulp": "^3.9.1",
+    "gulp-plumber": "^1.1.0",
     "gulp-sass": "^3.1.0"
-  }
+  },
+  "dependencies": {}
 }

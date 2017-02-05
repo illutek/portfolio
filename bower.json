@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "description": "<!-- @file Instructions on how to sub-theme the Drupal Bootstrap base theme using the CDN Starterkit. --> <!-- @defgroup sub_theming_cdn --> <!-- @ingroup sub_theming --> # CDN Starterkit",
+  "description": "the CDN Starterkit.",
   "main": "/templates/index.html",
   "authors": [
     "Stefan"
