@@ -28,15 +28,15 @@ Please refer to the @link registry Theme Registry @endlink topic.
 [Bootstrap Framework]: http://getbootstrap.com
 [jsDelivr CDN]: http://www.jsdelivr.com
 
-## Andere benadering van oefening CVO Portfolio
-### Bower
-Bower is a package manager, /bower_components en bower.json zorgen voor de nodige modules bootstrap,
+# Andere benadering van oefening CVO Portfolio
+## Bower
+Bower is a package manager, /bower_components en bower.json zorgen voor de nodige modules bootstrap,  
 fontawesome, jquery en de font 'Open sans', deze laatste niet via google fonts zie opmerking 
 eindwerk Arbor https://github.com/illutek/ARBOR.  
 Opmerking bij font  
 https://github.com/FontFaceKit/open-sans the place to be.  
 Om dit werkende te krijgen dient de variable $OpenSansPath (open-sans-fontface/sass/_variables.scss) 
 aangepast.
-### NPM 
-NPM is a package manager voor devDependencies, gebruikt dit in dit project voor GULP http://gulpjs.com/
+## NPM 
+NPM is a package manager voor devDependencies, gebruikt dit in dit project voor GULP http://gulpjs.com/  
 een task manager hier enkel voor sass te compileren
